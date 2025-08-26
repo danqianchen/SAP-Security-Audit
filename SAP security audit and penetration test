@@ -618,6 +618,7 @@ List of powerful SAP transactions
 	> SU03     		- Maintenance of Authorizations 
 	> SU53     		- Evaluate Authorization Check
 	> AL11			- Display all the SAP Directories and files stored on the underlying OS server 
+	> SE92_TRANSFER - Upload event FU6 note 3595065 - Improvement for event FU6 
 	> Program/report "RPCIFU01" 	- Display OS files
 	> Program/report "RPCIFU03" 	- Download OS files	
 	> Program/report "RSBDCOS0" 	- Execute OS commands
