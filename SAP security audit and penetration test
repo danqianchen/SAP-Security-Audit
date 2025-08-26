@@ -622,6 +622,7 @@ List of powerful SAP transactions
 	> Program/report "RPCIFU01" 	- Display OS files
 	> Program/report "RPCIFU03" 	- Download OS files	
 	> Program/report "RSBDCOS0" 	- Execute OS commands
+	> Program/report "RSAU_INFO_SYAG" 	- List message definitions
 	> CG3Z or GUI_upload and CG3Y or GUI_download  - Upload / download files to SAP systems (underlying OS server)
 	> SXDA, SXDB		- Data Transfer Workbench 
     	> SXDA_TOOLS    	- DX Workbench: tools  
